@@ -1,0 +1,55 @@
+== Model Comparison ==
+-- Task: Classification --
+LinearModel          acc: 0.6667
+DecisionTree         acc: 0.8889
+RandomForest         acc: 0.9333
+
+-- Task: Regression --
+LinearModel          mse: 43.4139
+DecisionTree         mse: 28.3416
+RandomForest         mse: 24.3225
+
+== Preprocessing Comparison ==
+-- Technique: normalize --
+[Classification] Accuracy: 0.6667
+[Regression]     MSE:      43.4139
+
+-- Technique: standardize --
+[Classification] Accuracy: 0.8889
+[Regression]     MSE:      21.9085
+
+
+== Linear Hyperparameter Comparison ==
+-- Params: lr=0.01, iter=1000 --
+[Classification] Accuracy: 0.6667
+[Regression]     MSE:      43.4139
+
+-- Params: lr=0.1, iter=1000 --
+[Classification] Accuracy: 0.9111
+[Regression]     MSE:      57.5492
+
+-- Params: lr=0.01, iter=100 --
+[Classification] Accuracy: 0.6222
+[Regression]     MSE:      88.8652
+
+-- Params: lr=0.1, iter=100 --
+[Classification] Accuracy: 0.6667
+[Regression]     MSE:      43.3975
+
+
+== Tree Hyperparameter Comparison ==
+-- Params: n_estimators=100, max_depth=5 --
+[Classification] Accuracy: 0.9111
+[Regression]     MSE:      23.9231
+
+-- Params: n_estimators=100, max_depth=10 --
+[Classification] Accuracy: 0.9333
+[Regression]     MSE:      23.7611
+
+-- Params: n_estimators=200, max_depth=5 --
+[Classification] Accuracy: 0.9333
+[Regression]     MSE:      24.0250
+
+-- Params: n_estimators=200, max_depth=10 --
+[Classification] Accuracy: 0.9333
+[Regression]     MSE:      23.0885

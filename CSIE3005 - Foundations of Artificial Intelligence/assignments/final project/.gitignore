@@ -1,0 +1,4 @@
+# *.log
+train.log
+*.json
+*.pkl

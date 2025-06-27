@@ -1,0 +1,133 @@
+nohup: ignoring input
+
+=== agent vs. baseline0 ===
+game 1, stack: 1895-105, time: 0.60s
+game 2, stack: 0-2000, time: 0.50s
+game 3, stack: 1830-170, time: 0.56s
+game 4, stack: 1825-175, time: 0.58s
+game 5, stack: 1870-130, time: 0.67s
+game 6, stack: 1835-165, time: 0.69s
+game 7, stack: 0-2000, time: 0.64s
+game 8, stack: 0-2000, time: 0.65s
+game 9, stack: 0-2000, time: 0.59s
+game 10, stack: 0-2000, time: 0.47s
+
+=== agent vs. baseline1 ===
+game 1, stack: 2000-0, time: 1.33s
+game 2, stack: 2000-0, time: 1.65s
+game 3, stack: 1745-255, time: 5.77s
+game 4, stack: 2000-0, time: 5.08s
+game 5, stack: 1825-175, time: 4.84s
+game 6, stack: 2000-0, time: 1.55s
+game 7, stack: 1835-165, time: 4.65s
+game 8, stack: 0-2000, time: 1.21s
+game 9, stack: 0-2000, time: 0.76s
+game 10, stack: 2000-0, time: 1.05s
+
+=== agent vs. baseline2 ===
+game 1, stack: 0-2000, time: 8.39s
+game 2, stack: 0-2000, time: 19.07s
+game 3, stack: 0-2000, time: 2.88s
+game 4, stack: 1835-165, time: 13.77s
+game 5, stack: 0-2000, time: 24.92s
+game 6, stack: 481-1519, time: 17.67s
+game 7, stack: 0-2000, time: 6.06s
+game 8, stack: 1322-678, time: 22.03s
+game 9, stack: 0-2000, time: 3.46s
+game 10, stack: 458-1542, time: 12.52s
+
+=== agent vs. baseline3 ===
+game 1, stack: 1325-675, time: 80.64s
+game 2, stack: 1060-940, time: 75.85s
+game 3, stack: 2000-0, time: 50.80s
+game 4, stack: 880-1120, time: 23.32s
+game 5, stack: 130-1870, time: 56.54s
+game 6, stack: 2000-0, time: 29.74s
+game 7, stack: 2000-0, time: 31.80s
+game 8, stack: 1214-786, time: 58.44s
+game 9, stack: 1212-788, time: 55.63s
+game 10, stack: 1055-945, time: 78.02s
+
+=== agent vs. baseline4 ===
+game 1, stack: 0-2000, time: 36.66s
+game 2, stack: 0-2000, time: 45.57s
+game 3, stack: 0-2000, time: 0.64s
+game 4, stack: 2000-0, time: 11.90s
+game 5, stack: 716-1284, time: 32.17s
+game 6, stack: 1863-137, time: 16.07s
+game 7, stack: 0-2000, time: 20.57s
+game 8, stack: 975-1025, time: 30.50s
+game 9, stack: 0-2000, time: 9.40s
+game 10, stack: 2000-0, time: 10.25s
+
+=== agent vs. baseline5 ===
+game 1, stack: 985-1015, time: 3.99s
+game 2, stack: 1000-1000, time: 4.85s
+game 3, stack: 165-1835, time: 1.56s
+game 4, stack: 995-1005, time: 4.89s
+game 5, stack: 0-2000, time: 0.59s
+game 6, stack: 0-2000, time: 3.37s
+game 7, stack: 985-1015, time: 4.36s
+game 8, stack: 776-1224, time: 2.67s
+game 9, stack: 975-1025, time: 3.27s
+game 10, stack: 0-2000, time: 6.62s
+
+=== agent vs. baseline6 ===
+game 1, stack: 155-1845, time: 1.89s
+game 2, stack: 0-2000, time: 1.65s
+game 3, stack: 0-2000, time: 3.21s
+game 4, stack: 975-1025, time: 8.87s
+game 5, stack: 954-1046, time: 2.57s
+game 6, stack: 0-2000, time: 3.33s
+game 7, stack: 2000-0, time: 8.64s
+game 8, stack: 0-2000, time: 7.41s
+game 9, stack: 180-1820, time: 2.14s
+game 10, stack: 996-1004, time: 19.29s
+
+=== agent vs. baseline7 ===
+game 1, stack: 2000-0, time: 7.32s
+game 2, stack: 160-1840, time: 0.56s
+game 3, stack: 200-1800, time: 3.05s
+game 4, stack: 921-1079, time: 14.57s
+game 5, stack: 96-1904, time: 3.94s
+game 6, stack: 90-1910, time: 16.31s
+game 7, stack: 166-1834, time: 5.46s
+game 8, stack: 0-2000, time: 7.53s
+game 9, stack: 175-1825, time: 0.42s
+game 10, stack: 206-1794, time: 12.50s
+
+=== agent vs. random ===
+game 1, stack: 1598-402, time: 0.62s
+game 2, stack: 1915-85, time: 0.59s
+game 3, stack: 1839-161, time: 0.56s
+game 4, stack: 1861-139, time: 0.67s
+game 5, stack: 1425-575, time: 0.61s
+game 6, stack: 0-2000, time: 0.63s
+game 7, stack: 1660-340, time: 0.65s
+game 8, stack: 1549-451, time: 0.58s
+game 9, stack: 0-2000, time: 0.56s
+game 10, stack: 1820-180, time: 0.50s
+
+=== agent vs. allin ===
+game 1, stack: 865-1135, time: 0.62s
+game 2, stack: 815-1185, time: 0.67s
+game 3, stack: 795-1205, time: 0.65s
+game 4, stack: 835-1165, time: 0.66s
+game 5, stack: 815-1185, time: 0.60s
+game 6, stack: 815-1185, time: 0.66s
+game 7, stack: 830-1170, time: 0.66s
+game 8, stack: 830-1170, time: 0.76s
+game 9, stack: 810-1190, time: 0.59s
+game 10, stack: 920-1080, time: 0.49s
+
+=== Results ===
+baseline0: 5/10
+baseline1: 8/10
+baseline2: 2/10
+baseline3: 8/10
+baseline4: 3/10
+baseline5: 0/10
+baseline6: 1/10
+baseline7: 1/10
+random: 8/10
+allin: 0/10
