@@ -1,4 +1,4 @@
 # *.log
 train.log
 *.json
-*.pkl
+# *.pkl
