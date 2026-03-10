@@ -4,7 +4,7 @@
 Materials, Assignments and Projects for my courses in NTU
 
 > [!NOTE]
-> 作業、考試不保證答案全對，僅供參考。  
+> 全錯，僅供參考。  
 > Assignments and exams are not guaranteed to be correct, for reference only.
 
 ---
